@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "id": "USR_001",
+      "email": "admin",
+      "password": "admin",
+      "fullName": "Admin User",
+      "lineId": "admin",
+      "role": "admin",
+      "status": "approved",
+      "data": {
+        "champions": [],
+        "settings": {
+          "backgroundImage": null
+        },
+        "alliance": {
+          "name": "",
+          "members": []
+        }
+      }
+    },
+    {
+      "email": "f1",
+      "password": "123456",
+      "fullName": "f1",
+      "lineId": "f1",
+      "role": "user",
+      "status": "approved",
+      "id": "USR_0736a1ec-3c52-4b83-9c33-6f68f9a7f78e",
+      "data": {
+        "champions": [],
+        "settings": {
+          "backgroundImage": null
+        },
+        "alliance": {
+          "name": "",
+          "members": []
+        }
+      }
+    },
+    {
+      "email": "f2",
+      "password": "123456",
+      "fullName": "f2",
+      "lineId": "f2",
+      "role": "user",
+      "status": "approved",
+      "id": "USR_d88e8ba2-5160-4920-a2b9-24d314d1ced9",
+      "data": {
+        "champions": [],
+        "settings": {
+          "backgroundImage": null
+        },
+        "alliance": {
+          "name": "",
+          "members": []
+        }
+      }
+    }
+  ],
+  "warMap": {
+    "globalTactic": null,
+    "nodeTactics": [],
+    "nodes": [
+      {
+        "id": "NODE_001",
+        "number": 1,
+        "type": "normal"
+      }
+    ],
+    "difficulty": "Expert",
+    "championBans": []
+  },
+  "seasons": []
+}
